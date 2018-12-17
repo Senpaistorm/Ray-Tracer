@@ -12,4 +12,7 @@ Remember to specify the colors and the properties of your objects.
 Once compiled, run ./RayTracer [resolution] [recursion_depth] [anti_aliasing_flag] file_name.ppm
 in terminal. Fill in the parameters of your own choice.
 
-![Alt text](Final_Render.ppm?raw=true "Title")
+![Sample Render 1](Final_Render.png?raw=true "Title")
+
+
+![Sample Render 1](pix.png?raw=true "Title")
