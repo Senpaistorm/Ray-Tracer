@@ -18,4 +18,4 @@ in terminal. Fill in the parameters of your own choice.
 ![Sample Render 1](pix.png?raw=true "Title")
 
 ### More advanced scene with added texture mapping, normal mapping, and alpha mapping
-![Sample Render 1](Final_Render.png?raw=true "Title")
+![Sample Render 2](Final_Render.png?raw=true "Title")
